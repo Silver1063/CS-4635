@@ -3,7 +3,7 @@
 import random
 
 # parameters
-size = 20
+size = 10_000_000
 num_intervals = 10
 
 nums = []
